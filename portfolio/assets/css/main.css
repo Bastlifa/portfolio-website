@@ -3551,6 +3551,7 @@ input, select, textarea {
 					max-width: 100%;
 					height: 45vh;
 				}
+				
 
 		}
 
@@ -3707,7 +3708,7 @@ input, select, textarea {
 				.banner.style2 .content {
 					padding: 4rem 3rem 2rem 3rem ;
 				}
-
+			
 		}
 
 		@media screen and (max-width: 980px) {
@@ -3719,7 +3720,7 @@ input, select, textarea {
 				.banner.style2 .content {
 					padding: 3.75rem 2.25rem 1.75rem 2.25rem ;
 				}
-
+			
 		}
 
 		@media screen and (max-width: 736px) {
@@ -3731,7 +3732,6 @@ input, select, textarea {
 				.banner.style2 .content {
 					padding: 2.5rem 1.5rem 0.5rem 1.5rem ;
 				}
-
 		}
 
 		.banner.style2.fullscreen {
